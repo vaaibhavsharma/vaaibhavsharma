@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 💬 Ask me about **Django,Python,Scripting**
+- 💬 Ask me about **Django, Python, Scripting**
 
 - 📫 How to reach me **asvaibhavsharma@gmail.com**
 
