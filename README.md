@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaaibhavsharma&label=Profile%20views&color=0e75b6&style=flat" alt="vaaibhavsharma" /> </p>
 
 
-<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=vaaibhavsharma&" alt="vaaibhavsharma" />
+<img align="right" width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=vaaibhavsharma&" alt="vaaibhavsharma" />
 <div>
 - 🔭 I’m currently working on **Attendance-Tracker**
 
