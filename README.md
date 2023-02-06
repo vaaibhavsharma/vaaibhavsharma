@@ -7,7 +7,7 @@
 <img align="right" width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=vaaibhavsharma&" alt="vaaibhavsharma" />
 <div>
   
-- 🔭 Backend Developer at Aiborne Tech
+- 🔭 Backend Developer @ **AiBorne**
 
 - 💬 Ask me about **Django, Python, Scripting**
 
