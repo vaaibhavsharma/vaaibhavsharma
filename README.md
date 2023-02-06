@@ -6,9 +6,8 @@
 
 <img align="right" width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=vaaibhavsharma&" alt="vaaibhavsharma" />
 <div>
-- 🔭 I’m currently working on **Attendance-Tracker**
-
-- 🌱 I’m currently learning **React**
+  
+- 🔭 Backend Developer at Aiborne Tech
 
 - 💬 Ask me about **Django, Python, Scripting**
 
