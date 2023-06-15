@@ -8,7 +8,7 @@
   <a href="mailto:asvaibhavsharma@gmail.com"><strong>asvaibhavsharma@gmail.com</strong></a>
   <br>
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vaaibhavsharma" alt="Vaibhav Sharma's GitHub Streak" width="500" />
+  <img src="https://streak-stats.demolab.com?user=vaaibhavsharma&theme=transparent&hide_border=true" alt="Vaibhav Sharma's GitHub Streak" width="500" />
 </div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaaibhavsharma&label=Profile%20views&color=0e75b6&style=flat" alt="vaaibhavsharma" /> </p>
