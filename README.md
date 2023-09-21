@@ -6,5 +6,3 @@
 - Always learning more about [Django](https://www.djangoproject.com/), [Django Rest Framework (DRF)](https://www.django-rest-framework.org/), [FastAPI](https://fastapi.tiangolo.com/)
 - Ask me about: Everything Python, Redis and In General Backend Development!
 - How to reach me: asvaibhavsharma@gmail.com, also, X[@vaaibhavsharma](https://twitter.com/vaaibhavsharmaa)
-<img src="https://streak-stats.demolab.com?user=vaaibhavsharma&theme=transparent&hide_border=true" alt="Vaibhav Sharma's GitHub Streak" width="500" />
-
